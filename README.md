@@ -8,4 +8,4 @@ Output
    simple interest = p*t*r
 
 
-/n2023 XYZ, Inc.
+2023 XYZ, Inc.
